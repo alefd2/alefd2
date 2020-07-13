@@ -14,6 +14,6 @@
 - 🧑‍💻 **Fullstack** web developer.
 - 💻 React.js, Node.js, Javascript, C# and **more**.
 - Currently studying at **Rocketseat** :purple_heart:
-- Love dsingne ❤️
+- Love design ❤️
 
 ---
