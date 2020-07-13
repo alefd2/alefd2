@@ -13,6 +13,7 @@
 - and post-graduation in accounting, audits and controllership
 - 🧑‍💻 **Fullstack** web developer.
 - 💻 React.js, Node.js, Javascript, C# and **more**.
-- Currently studying at **Rocketseat** :purple_heart: 
+- Currently studying at **Rocketseat** :purple_heart:
+- Love dsingne ❤️
 
 ---
