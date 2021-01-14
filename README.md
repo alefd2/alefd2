@@ -11,7 +11,7 @@
 
 - :books: Graduated in accountant by **UniAteneu** 📈 
 - and post-graduation in accounting, audits and controllership
-- 🧑‍💻 **Fullstack** web developer.
+- 🧑‍💻student programming
 - 💻 React.js, Node.js, Javascript, C# and **more**.
 - Currently studying at **Rocketseat** :purple_heart:
 - Love design ❤️
